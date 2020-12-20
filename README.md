@@ -5,7 +5,7 @@ There are numerous subscription based programs to control a bicycle smart traine
 
 Let's build a program to control a bicycle smart trainer using an erg, mrc, or zwo file. 
 
-Great feture would include:
+Great features would include:
 -Modern GUI
 -Graphing of workout
 -Graphing of sensor data (power, HR, etc...)
